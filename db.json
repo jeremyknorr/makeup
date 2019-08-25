@@ -1,27 +1,394 @@
     
 {
-    "products": [
-        { 
-            "id": "2019-08-18 19:33:59",
-            "productName": "TRUE MATCH LUMI Healthy Luminous Makeup",
-            "productDescription": "Post 1",
-            "makeupProductDescription": "Post 1",
-            "brandName": "L'Oreal",
-            "tier": "Post 1",
+    "recommendedProducts": [
+        {
+            "id": "2019-08-19T02:44:22.000+0000",
+            "productName": "Clean Liquid Makeup Foundation",
+            "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
+            "brandName": "CoverGirl",
+            "tier": "Default",
             "type": "Foundation",
-            "url": "Post 1",
-            "image": "Post 1"
+            "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
+            "shade": {
+                "id": "2019-08-20T00:11:08.000+0000",
+                "name": "110 - Classic Ivory",
+                "hexRgbColor": "EBC7A3",
+                "hexRgbColorAdjust": "EBC7A3",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
         },
-        { 
-            "id": "",
-            "productName": "Mineral Powder Foundation",
-            "productDescription": "Post 1",
-            "makeupProductDescription": "Post 1",
-            "brandName": "Ulta",
-            "tier": "Post 1",
+        {
+            "id": "2019-08-19T02:44:22.000+0000",
+            "productName": "Clean Liquid Makeup Foundation",
+            "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
+            "brandName": "CoverGirl",
+            "tier": "Default",
             "type": "Foundation",
-            "url": "Post 1",
-            "image": "Post 1"
+            "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
+            "shade": {
+                "id": "2019-08-20T00:11:09.000+0000",
+                "name": "135 - Medium Light",
+                "hexRgbColor": "DBAB7A",
+                "hexRgbColorAdjust": "DBAB7A",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:44:22.000+0000",
+            "productName": "Clean Liquid Makeup Foundation",
+            "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
+            "brandName": "CoverGirl",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
+            "shade": {
+                "id": "2019-08-20T00:11:10.000+0000",
+                "name": "150 - Creamy Beige",
+                "hexRgbColor": "E4B796",
+                "hexRgbColorAdjust": "E4B796",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:45:31.000+0000",
+            "productName": "Outlast Active Foundation",
+            "productDescription": "Discover a foundation that lasts all day long! Outlast Active Foundation is sweat-proof, transfer-proof and humidity-proof for up to 24 hours and doesn't clog pores.",
+            "brandName": "CoverGirl",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "www.netflix.com",
+            "shade": {
+                "id": "2019-08-20T00:11:11.000+0000",
+                "name": "800 - Fair Ivory",
+                "hexRgbColor": "D1AC92",
+                "hexRgbColorAdjust": "D1AC92",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:45:31.000+0000",
+            "productName": "Outlast Active Foundation",
+            "productDescription": "Discover a foundation that lasts all day long! Outlast Active Foundation is sweat-proof, transfer-proof and humidity-proof for up to 24 hours and doesn't clog pores.",
+            "brandName": "CoverGirl",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "www.netflix.com",
+            "shade": {
+                "id": "2019-08-20T00:11:12.000+0000",
+                "name": "800 - Fair Ivory",
+                "hexRgbColor": "D1AC92",
+                "hexRgbColorAdjust": "D1AC92",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:47:09.000+0000",
+            "productName": "DIOR FOREVER",
+            "brandName": "Dior",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.dior.com/en_us/products/beauty-Y0063000-dior-forever-24h*-wear-high-perfection-skin-caring-foundation",
+            "shade": {
+                "id": "2019-08-20T00:11:17.000+0000",
+                "name": "2N 2 Neutral",
+                "hexRgbColor": "FEE0C8",
+                "hexRgbColorAdjust": "FEE0C8",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:47:09.000+0000",
+            "productName": "DIOR FOREVER",
+            "brandName": "Dior",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.dior.com/en_us/products/beauty-Y0063000-dior-forever-24h*-wear-high-perfection-skin-caring-foundation",
+            "shade": {
+                "id": "2019-08-20T00:11:18.000+0000",
+                "name": "4W 4 Warm",
+                "hexRgbColor": "E2AA6F",
+                "hexRgbColorAdjust": "E2AA6F",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:47:34.000+0000",
+            "productName": "DIOR FOREVER SKIN GLOW",
+            "brandName": "Dior",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.dior.com/en_us/products/beauty-Y0071000-dior-forever-skin-glow-24h*-wear-radiant-perfection-skin-caring-foundation",
+            "shade": {
+                "id": "2019-08-20T00:11:19.000+0000",
+                "name": "2CR 2 Cool Rosy",
+                "hexRgbColor": "FEDBC5",
+                "hexRgbColorAdjust": "FEDBC5",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:47:34.000+0000",
+            "productName": "DIOR FOREVER SKIN GLOW",
+            "brandName": "Dior",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.dior.com/en_us/products/beauty-Y0071000-dior-forever-skin-glow-24h*-wear-radiant-perfection-skin-caring-foundation",
+            "shade": {
+                "id": "2019-08-20T00:11:20.000+0000",
+                "name": "5N 5 Neutral",
+                "hexRgbColor": "C68863",
+                "hexRgbColorAdjust": "C68863",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:32:35.000+0000",
+            "productName": "Up to 24HR Fresh Wear Foundation, Lightweight",
+            "productDescription": "Be Unstoppable. Introducing our breakthrough longwear foundation with breathable-skin technology. Up to 24HR Fresh Wear Foundation provides medium-to-full buildable coverage that lasts all day and allows the skin to breathe. The formula's three oil absorbers resist sweat, water, and transfer. The ultra-thin liquid goes on smoothly to give a fresh, healthy-looking complexion that lasts. Color stays true and blends in evenly, so your makeup looks fresh all day. Non-comedogenic and formulated with SPF, this foundation is suitable for all skin types. In 30 shades for every skin tone.",
+            "brandName": "L'Oréal",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.lorealparisusa.com/products/makeup/face/foundation-makeup/infallible-up-to-24hr-fresh-wear-foundation-lightweight.aspx?shade=400-pearl",
+            "shade": {
+                "id": "2019-08-20T00:11:00.000+0000",
+                "name": "400 - PEARL",
+                "hexRgbColor": "F5D7C3",
+                "hexRgbColorAdjust": "F5D7C3",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:32:35.000+0000",
+            "productName": "Up to 24HR Fresh Wear Foundation, Lightweight",
+            "productDescription": "Be Unstoppable. Introducing our breakthrough longwear foundation with breathable-skin technology. Up to 24HR Fresh Wear Foundation provides medium-to-full buildable coverage that lasts all day and allows the skin to breathe. The formula's three oil absorbers resist sweat, water, and transfer. The ultra-thin liquid goes on smoothly to give a fresh, healthy-looking complexion that lasts. Color stays true and blends in evenly, so your makeup looks fresh all day. Non-comedogenic and formulated with SPF, this foundation is suitable for all skin types. In 30 shades for every skin tone.",
+            "brandName": "L'Oréal",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.lorealparisusa.com/products/makeup/face/foundation-makeup/infallible-up-to-24hr-fresh-wear-foundation-lightweight.aspx?shade=400-pearl",
+            "shade": {
+                "id": "2019-08-20T00:11:01.000+0000",
+                "name": "530 - DEEP-AMBER",
+                "hexRgbColor": "813205",
+                "hexRgbColorAdjust": "813205",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:33:59.000+0000",
+            "productName": "TRUE MATCH LUMI Healthy Luminous Makeup",
+            "productDescription": "Finally, makeup that creates skin so healthy – it’s luminous! True Match™ Lumi Healthy Luminous Makeup combines 3 powerful ingredients that work to improve your complexion the more you wear them. 40% pure water for all-day hydration. Antioxidants and Vitamins C and E for improved clarity and skin tone. And Liquid Light Technology for an instant, luminous glow. Isn’t it time you met your match?",
+            "brandName": "L'Oréal",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.lorealparisusa.com/products/makeup/face/foundation-makeup/true-match-lumi-healthy-luminous-makeup.aspx?shade=buff-beige",
+            "shade": {
+                "id": "2019-08-20T00:11:02.000+0000",
+                "name": "BUFF BEIGE",
+                "hexRgbColor": "C99C7C",
+                "hexRgbColorAdjust": "C99C7C",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:33:59.000+0000",
+            "productName": "TRUE MATCH LUMI Healthy Luminous Makeup",
+            "productDescription": "Finally, makeup that creates skin so healthy – it’s luminous! True Match™ Lumi Healthy Luminous Makeup combines 3 powerful ingredients that work to improve your complexion the more you wear them. 40% pure water for all-day hydration. Antioxidants and Vitamins C and E for improved clarity and skin tone. And Liquid Light Technology for an instant, luminous glow. Isn’t it time you met your match?",
+            "brandName": "L'Oréal",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.lorealparisusa.com/products/makeup/face/foundation-makeup/true-match-lumi-healthy-luminous-makeup.aspx?shade=buff-beige",
+            "shade": {
+                "id": "2019-08-20T00:11:03.000+0000",
+                "name": "NUT BROWN/COCOA",
+                "hexRgbColor": "9B6C49",
+                "hexRgbColorAdjust": "9B6C49",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:46:14.000+0000",
+            "productName": "FIT ME® MATTE + PORELESS FOUNDATION",
+            "productDescription": "Want the perfect foundation fit? It's all about matching skin tone and texture. Mattifying liquid formula ideal for normal to oily skin",
+            "brandName": "Maybelline",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.maybelline.com/face-makeup/foundation-makeup/fit-me-matte-poreless-foundation/classic-ivory",
+            "shade": {
+                "id": "2019-08-20T00:11:13.000+0000",
+                "name": "CLASSIC IVORY",
+                "hexRgbColor": "E8C4A6",
+                "hexRgbColorAdjust": "E8C4A6",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:46:14.000+0000",
+            "productName": "FIT ME® MATTE + PORELESS FOUNDATION",
+            "productDescription": "Want the perfect foundation fit? It's all about matching skin tone and texture. Mattifying liquid formula ideal for normal to oily skin",
+            "brandName": "Maybelline",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.maybelline.com/face-makeup/foundation-makeup/fit-me-matte-poreless-foundation/classic-ivory",
+            "shade": {
+                "id": "2019-08-20T00:11:14.000+0000",
+                "name": "PORCELAIN",
+                "hexRgbColor": "FFECD9",
+                "hexRgbColorAdjust": "FFECD9",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:46:42.000+0000",
+            "productName": "DREAM VELVET™ SOFT-MATTE HYDRATING FOUNDATION",
+            "productDescription": "Maybelline's first soft-matte hydrating foundation: no drying, no roughness. Feels fresh as it covers.",
+            "brandName": "Maybelline",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.maybelline.com/face-makeup/foundation-makeup/dream-velvet-soft-matte-hydrating-foundation/natural-beige",
+            "shade": {
+                "id": "2019-08-20T00:11:15.000+0000",
+                "name": "NATURAL BEIGE",
+                "hexRgbColor": "D5B396",
+                "hexRgbColorAdjust": "D5B396",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:46:42.000+0000",
+            "productName": "DREAM VELVET™ SOFT-MATTE HYDRATING FOUNDATION",
+            "productDescription": "Maybelline's first soft-matte hydrating foundation: no drying, no roughness. Feels fresh as it covers.",
+            "brandName": "Maybelline",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.maybelline.com/face-makeup/foundation-makeup/dream-velvet-soft-matte-hydrating-foundation/natural-beige",
+            "shade": {
+                "id": "2019-08-20T00:11:16.000+0000",
+                "name": "IVORY",
+                "hexRgbColor": "ECD0B9",
+                "hexRgbColorAdjust": "ECD0B9",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:42:30.000+0000",
+            "productName": "Mineral Powder Foundation",
+            "productDescription": "Find your perfect Ulta Beauty Mineral Powder Foundation shade! Ulta's Mineral Powder Foundation is made with pure, crushed minerals and soothing extracts of chamomile and ginseng. Ideal for all skin types. Achieve long-lasting, buildable, lightweight coverage with a natural finish. Soft and creamy texture applies effortlessly, covering blemishes and evening out skin tone for a flawless look. Free of Fragrance, Gluten, Sulfate, Silicone.",
+            "brandName": "Ulta",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.ulta.com/mineral-powder-foundation?productId=pimprod2005369",
+            "shade": {
+                "id": "2019-08-20T00:11:04.000+0000",
+                "name": "Medium to Tan Warm",
+                "hexRgbColor": "E4C09E",
+                "hexRgbColorAdjust": "E4C09E",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:42:30.000+0000",
+            "productName": "Mineral Powder Foundation",
+            "productDescription": "Find your perfect Ulta Beauty Mineral Powder Foundation shade! Ulta's Mineral Powder Foundation is made with pure, crushed minerals and soothing extracts of chamomile and ginseng. Ideal for all skin types. Achieve long-lasting, buildable, lightweight coverage with a natural finish. Soft and creamy texture applies effortlessly, covering blemishes and evening out skin tone for a flawless look. Free of Fragrance, Gluten, Sulfate, Silicone.",
+            "brandName": "Ulta",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.ulta.com/mineral-powder-foundation?productId=pimprod2005369",
+            "shade": {
+                "id": "2019-08-20T00:11:05.000+0000",
+                "name": "Dark Cool",
+                "hexRgbColor": "BC795F",
+                "hexRgbColorAdjust": "BC795F",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:43:16.000+0000",
+            "productName": "Moisturizing Foundation Stick",
+            "productDescription": "Achieve a flawless and natural look with Ulta's Moisturizing Foundation Stick. This buttery formula melts onto skin and provides medium coverage with a natural finish. Soft-focus powders work to blur imperfections and a combination of antioxidants, vitamins and hyaluronic acid moisturize and nourish skin.\n\nBenefits:\nTranslucent Gelling Polymer creates a smooth and silky texture\nSuper soft focus powder provides a blurring effect\nBotanical waxes help foundation apply and blend seamlessly on skin\nHyaluronic acid helps moisturize and condition skin\nGreen Tea Extract provides antioxidant benefits\nVitamins C & E condition, brighten, and even skin tone\nFormulated Without: Parabens & Oil",
+            "brandName": "Ulta",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.ulta.com/moisturizing-foundation-stick?productId=xlsImpprod18691125",
+            "shade": {
+                "id": "2019-08-20T00:11:06.000+0000",
+                "name": "Medium with warm undertones",
+                "hexRgbColor": "DCA47F",
+                "hexRgbColorAdjust": "DCA47F",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        },
+        {
+            "id": "2019-08-19T02:43:16.000+0000",
+            "productName": "Moisturizing Foundation Stick",
+            "productDescription": "Achieve a flawless and natural look with Ulta's Moisturizing Foundation Stick. This buttery formula melts onto skin and provides medium coverage with a natural finish. Soft-focus powders work to blur imperfections and a combination of antioxidants, vitamins and hyaluronic acid moisturize and nourish skin.\n\nBenefits:\nTranslucent Gelling Polymer creates a smooth and silky texture\nSuper soft focus powder provides a blurring effect\nBotanical waxes help foundation apply and blend seamlessly on skin\nHyaluronic acid helps moisturize and condition skin\nGreen Tea Extract provides antioxidant benefits\nVitamins C & E condition, brighten, and even skin tone\nFormulated Without: Parabens & Oil",
+            "brandName": "Ulta",
+            "tier": "Default",
+            "type": "Foundation",
+            "url": "https://www.ulta.com/moisturizing-foundation-stick?productId=xlsImpprod18691125",
+            "shade": {
+                "id": "2019-08-20T00:11:07.000+0000",
+                "name": "Dark with cool undertones",
+                "hexRgbColor": "834D41",
+                "hexRgbColorAdjust": "834D41",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
         }
-    ]
+    ],
+    "product": {
+        "id": "2019-08-19T02:44:22.000+0000",
+        "productName": "Clean Liquid Makeup Foundation",
+        "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
+        "brandName": "CoverGirl",
+        "tier": "Default",
+        "type": "Foundation",
+        "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
+        "shades": [
+            {
+                "id": "2019-08-20T00:11:08.000+0000",
+                "name": "110 - Classic Ivory",
+                "hexRgbColor": "EBC7A3",
+                "hexRgbColorAdjust": "EBC7A3",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            },
+            {
+                "id": "2019-08-20T00:11:09.000+0000",
+                "name": "135 - Medium Light",
+                "hexRgbColor": "DBAB7A",
+                "hexRgbColorAdjust": "DBAB7A",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            },
+            {
+                "id": "2019-08-20T00:11:10.000+0000",
+                "name": "150 - Creamy Beige",
+                "hexRgbColor": "E4B796",
+                "hexRgbColorAdjust": "E4B796",
+                "hexAColor": "FF",
+                "hexAColorAdjust": "FF"
+            }
+        ]
+    }
 }
+
