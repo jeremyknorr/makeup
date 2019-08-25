@@ -1,0 +1,27 @@
+    
+{
+    "products": [
+        { 
+            "id": "2019-08-18 19:33:59",
+            "productName": "TRUE MATCH LUMI Healthy Luminous Makeup",
+            "productDescription": "Post 1",
+            "makeupProductDescription": "Post 1",
+            "brandName": "L'Oreal",
+            "tier": "Post 1",
+            "type": "Foundation",
+            "url": "Post 1",
+            "image": "Post 1"
+        },
+        { 
+            "id": "",
+            "productName": "Mineral Powder Foundation",
+            "productDescription": "Post 1",
+            "makeupProductDescription": "Post 1",
+            "brandName": "Ulta",
+            "tier": "Post 1",
+            "type": "Foundation",
+            "url": "Post 1",
+            "image": "Post 1"
+        }
+    ]
+}
