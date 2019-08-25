@@ -19,40 +19,6 @@
             }
         },
         {
-            "id": "2019-08-19T02:44:22.000+0000",
-            "productName": "Clean Liquid Makeup Foundation",
-            "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
-            "brandName": "CoverGirl",
-            "tier": "Default",
-            "type": "Foundation",
-            "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
-            "shade": {
-                "id": "2019-08-20T00:11:09.000+0000",
-                "name": "135 - Medium Light",
-                "hexRgbColor": "DBAB7A",
-                "hexRgbColorAdjust": "DBAB7A",
-                "hexAColor": "FF",
-                "hexAColorAdjust": "FF"
-            }
-        },
-        {
-            "id": "2019-08-19T02:44:22.000+0000",
-            "productName": "Clean Liquid Makeup Foundation",
-            "productDescription": "Let your natural beauty shine through with COVERGIRL Clean Liquid Makeup! Clean Makeup's water-based foundation non-comedogenic formula lets your skin breathe, goes on easily, and blends perfectly, so the world doesn't see makeup, just the look of great skin. COVERGIRL Clean Liquid Makeup is also available in Sensitive Skin and Oil Control formulas. Shop COVERGIRL Clean Liquid Makeup today!",
-            "brandName": "CoverGirl",
-            "tier": "Default",
-            "type": "Foundation",
-            "url": "https://www.covergirl.com/en_us/face-makeup/clean-liquid-foundation.html",
-            "shade": {
-                "id": "2019-08-20T00:11:10.000+0000",
-                "name": "150 - Creamy Beige",
-                "hexRgbColor": "E4B796",
-                "hexRgbColorAdjust": "E4B796",
-                "hexAColor": "FF",
-                "hexAColorAdjust": "FF"
-            }
-        },
-        {
             "id": "2019-08-19T02:45:31.000+0000",
             "productName": "Outlast Active Foundation",
             "productDescription": "Discover a foundation that lasts all day long! Outlast Active Foundation is sweat-proof, transfer-proof and humidity-proof for up to 24 hours and doesn't clog pores.",
@@ -94,42 +60,10 @@
             "type": "Foundation",
             "url": "https://www.dior.com/en_us/products/beauty-Y0063000-dior-forever-24h*-wear-high-perfection-skin-caring-foundation",
             "shade": {
-                "id": "2019-08-20T00:11:17.000+0000",
-                "name": "2N 2 Neutral",
-                "hexRgbColor": "FEE0C8",
-                "hexRgbColorAdjust": "FEE0C8",
-                "hexAColor": "FF",
-                "hexAColorAdjust": "FF"
-            }
-        },
-        {
-            "id": "2019-08-19T02:47:09.000+0000",
-            "productName": "DIOR FOREVER",
-            "brandName": "Dior",
-            "tier": "Default",
-            "type": "Foundation",
-            "url": "https://www.dior.com/en_us/products/beauty-Y0063000-dior-forever-24h*-wear-high-perfection-skin-caring-foundation",
-            "shade": {
                 "id": "2019-08-20T00:11:18.000+0000",
                 "name": "4W 4 Warm",
                 "hexRgbColor": "E2AA6F",
                 "hexRgbColorAdjust": "E2AA6F",
-                "hexAColor": "FF",
-                "hexAColorAdjust": "FF"
-            }
-        },
-        {
-            "id": "2019-08-19T02:47:34.000+0000",
-            "productName": "DIOR FOREVER SKIN GLOW",
-            "brandName": "Dior",
-            "tier": "Default",
-            "type": "Foundation",
-            "url": "https://www.dior.com/en_us/products/beauty-Y0071000-dior-forever-skin-glow-24h*-wear-radiant-perfection-skin-caring-foundation",
-            "shade": {
-                "id": "2019-08-20T00:11:19.000+0000",
-                "name": "2CR 2 Cool Rosy",
-                "hexRgbColor": "FEDBC5",
-                "hexRgbColorAdjust": "FEDBC5",
                 "hexAColor": "FF",
                 "hexAColorAdjust": "FF"
             }
